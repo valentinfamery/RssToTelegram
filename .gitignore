@@ -1,0 +1,8 @@
+/bin/
+/obj/
+/Data/Migrations/
+/wwwroot
+app.db
+app.db-shm
+app.db-wal
+secrets.json
